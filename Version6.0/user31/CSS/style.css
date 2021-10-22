@@ -1,35 +1,48 @@
-.body-wideMargin {
-  margin: 50px;
-  font-size: 100%;
-  line-height: 1.5;
-  font-family: Roboto;
-  background-color: lightcyan;
+table {
+	font-family: "Marker Felt", "Comic Sans MS", fantasy;
+	color: #003366;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	border-collapse: collapse;
+	border-spacing: 0px;
 }
 
-button{
-  padding:5px;
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#62aaf193; 
+}
+body {
+	background-image: url("../images/1062.png");
+	background-size:1500px 1500px; /* width height */
+   }
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #64a0db;
+
+
 }
 
-ol {
-
-  list-style-type: decimal-leading-zero;
-}
-
-ol ol {
-  margin-left: 0.9em;
-}
-
-ol li {
-
-  line-height: 1.5;
-}
+p {
+	padding-top: 5px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+	padding-right: 5px;
+	background-color: lavender;
+  }
 
 
-h1 {
-  font-family: "Fjalla One", sans-serif;
-  font-size: 2em;
-  text-transform: uppercase;
-  font-weight: 400;
-  border-bottom: 1px solid black;
-  margin-bottom: 1em;
-}
+#C1 {
+	font-size: 18px;
+  }
+  #C2 {
+	font-size: 20px;
+  }
+  #C3 {
+	font-size: 22px;
+  }
+  #C4 {
+	font-size: 24px;
+  }
